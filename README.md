@@ -5,4 +5,4 @@ Assignment 2.8 on updated python code
 
 eb status -- check environment status
 
-eb open
+eb open -- open application
